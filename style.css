@@ -12,10 +12,12 @@ body {
 }
 */
 --cor-principal: #82d2c0;
---cor-secundaria: #a0c85f;
+--cor-secundaria: #a0c85fe5;
 --cor-destaque: #72d8e3;
 }
-
+div.modal-content{
+    background-color:#14143a;
+ }
 body {
 font-family: 'Chakra Petch', sans-serif;
 color: var(--cor-principal);
